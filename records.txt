@@ -1,0 +1,7 @@
+Easy 7
+Easy 14
+Easy 20
+Easy 21
+Easy 25
+Medium 52
+Medium 65
